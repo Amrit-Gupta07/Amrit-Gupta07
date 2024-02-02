@@ -11,11 +11,7 @@
 - **Version Control:** Git
 - **Problem Solving:** LeetCode (600+ problems solved)
 
-  ## 🌱 Current Focus
 
-- Strengthening my skills in full-stack development.
-- Exploring advanced topics in React and Node.js.
-- Participating in coding challenges and competitions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
