@@ -9,7 +9,7 @@
 - **Database:** MongoDB
 - **Tools & Frameworks:** Express.js
 - **Version Control:** Git
-- **Problem Solving:** LeetCode (600+ problems solved)
+- **Problem Solving:** LeetCode (700+ problems solved)
 
 
 
