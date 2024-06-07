@@ -5,11 +5,11 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** JavaScript (Node.js, React), HTML, CSS
-- **Database:** MongoDB
-- **Tools & Frameworks:** Express.js
+- **Frontend:** JavaScript (React, Next.js), HTML, CSS
+- **Database:** MongoDB Postgress
+- **Backend:** Express.js Next.js
 - **Version Control:** Git
-- **Problem Solving:** LeetCode (700+ problems solved)
+- **Problem Solving:** LeetCode (700+ Problems solved RATING : 1730)
 
 
 
