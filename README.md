@@ -9,7 +9,7 @@
 - **Database:** MongoDB Postgress
 - **Backend:** Express.js Next.js
 - **Version Control:** Git
-- **Problem Solving:** LeetCode (700+ Problems solved RATING : 1730)
+- **Problem Solving:** LeetCode (750+ Problems solved RATING : 1750)
 
 
 
